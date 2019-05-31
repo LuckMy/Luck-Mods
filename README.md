@@ -1,4 +1,4 @@
-These are the mods required to access my Minecraft server
+# These are the mods required to access my Minecraft server
 Tutorial to install Forge:
 
 1.) Download the version listed in the Repo
