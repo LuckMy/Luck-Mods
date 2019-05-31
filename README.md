@@ -15,6 +15,7 @@
 ```
 1.) Open it up
 2.) Select the Forge profile
-  2.A) I reccommend changing the amount of RAM available for Forge. You can do so by clicking "Launch Options", toggling advanced settings on, click forge, toggle JVM arguments on, edit the 2G to 6 or so. Don't go above half your total system RAM, click save
+  2.A) I reccommend changing the amount of RAM available for Forge. You can do so by clicking "Launch Options", toggling advanced
+  settings on, click forge, toggle JVM arguments on, edit the 2G to 6 or so. Don't go above half your total system RAM, click save
 3.) Launch Minecraft
 ```
