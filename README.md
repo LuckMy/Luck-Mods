@@ -20,3 +20,9 @@
        edit the 2G to 6 or so. Don't go above half your total system RAM, click save
 3.) Launch Minecraft
 ```
+
+## Claiming land
+```
+1.) Hit E
+2.) Make sure you are on a team, or create your own
+3.) Click the mini map, drag around to claim
